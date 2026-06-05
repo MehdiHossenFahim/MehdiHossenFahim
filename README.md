@@ -115,21 +115,23 @@ Intelligent document summarization tool powered by Python.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MehdiHossenFahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiHossenFahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=github_dark" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MehdiHossenFahim&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=22d3ee&currStreakLabel=22d3ee" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MehdiHossenFahim&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=22d3ee&line=6366f1&point=ffffff&area=true&area_color=6366f1" width="100%"/>
+![](https://komarev.com/ghpvc/?username=MehdiHossenFahim&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
