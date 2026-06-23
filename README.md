@@ -38,6 +38,7 @@ Results-driven developer who builds things at the intersection of **software, AI
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -54,6 +55,56 @@ Results-driven developer who builds things at the intersection of **software, AI
 
 ## 🚀 Featured Projects
 
+<!-- ── SPOTLIGHT ROW — two pinned projects ── -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 GitSearch — GitHub Profile Analyzer
+
+> *A developer intelligence engine that transforms any GitHub profile into structured, actionable insights.*
+
+Enter any GitHub username and instantly get a full breakdown: contribution strength, repository impact, language distribution, and a calculated **developer score (0–100)** based on stars, forks, followers, and activity.
+
+**Highlights**
+- 🧠 Weighted developer scoring algorithm
+- 📦 Auto-detects top repositories
+- 📊 Language distribution mapping
+- ⚡ Real-time GitHub REST API integration
+- 🎨 Modern responsive UI (EJS + CSS)
+
+**Tech:** `Node.js` `Express` `EJS` `GitHub API` `Axios`
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-4FD1C5?style=for-the-badge)](https://github-profile-analyzer-ashen.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github)](https://github.com/MehdiHossenFahim/github-profile-analyzer)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 BookNotes — Personal Reading Library
+
+> *A full-stack reading shelf — search, rate, and curate the books that shaped you.*
+
+Type any book title and BookNotes automatically fetches the **cover art and author** from the Open Library API. Rate it 1–10, and it lands on your personal shelf — sortable by rating, title, or date added.
+
+**Highlights**
+- 🔍 Live book search via Open Library API
+- ⭐ 1–10 rating system with visual progress bar
+- 🗂️ Three sort modes (top-rated · A–Z · newest)
+- 🚫 DB-level duplicate protection (`ON CONFLICT DO NOTHING`)
+- 📱 Fully responsive dark editorial UI
+
+**Tech:** `Node.js` `Express` `PostgreSQL` `EJS` `Open Library API`
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-4FD1C5?style=for-the-badge)](https://book-notes-one.vercel.app/)]
+[![Source Code](https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github)](https://github.com/MehdiHossenFahim/booknotes)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ── OTHER PROJECTS ── -->
 <table>
 <tr>
 <td width="50%">
