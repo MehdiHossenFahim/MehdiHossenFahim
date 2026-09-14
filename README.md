@@ -1,102 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=140&section=header&text=Mehedi%20Hossen%20Fahim&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Software%20Developer%20%C2%B7%20AI%20Platforms%20%C2%B7%20IoT%20Systems&descAlignY=70&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=220&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=%3C%20SOFTWARE%20DEVELOPER%20%2F%2F%20AI%20AGENTS%20%2F%2F%20IoT%20SYSTEMS%20%3E&descAlignY=58&descSize=14&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=building+AI+agents+that+think+in+SQL+%2B+search;training+computer+vision+models+from+scratch;engineering+IoT+systems+that+talk+to+the+cloud;shipping+production-grade+full-stack+apps" alt="Typing SVG"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hossen-fahim-322b49171)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://mehdihossenfahim.github.io/portfolio)
-[![EduBuddy](https://img.shields.io/badge/EduBuddy%20Live-6366f1?style=for-the-badge&logo=rocket&logoColor=white)](https://edubuddy-web.onrender.com/)
+<a href="https://www.linkedin.com/in/mehedi-hossen-fahim-322b49171">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="30"/>
+</a>
+<a href="https://mehdihossenfahim.github.io/portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0F?style=for-the-badge&logo=vercel&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="30"/>
+</a>
+<a href="https://github.com/MehdiHossenFahim">
+  <img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2E9F&labelColor=0A0A0F&color=0A0A0F" height="30"/>
+</a>
+
+<br/>
+<img src="https://img.shields.io/badge/-%20-0A0A0F?style=flat-square" height="2" width="700"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+```yaml
+> whoami --verbose
+```
 
-Results-driven developer who builds things at the intersection of **software, AI, and hardware**. From scalable backend APIs to award-winning IoT systems, I turn ideas into working products.
+Results-driven developer operating at the intersection of **software, AI, and hardware** — architecting LLM agents that route between SQL databases and live web search, training computer-vision models from scratch, and shipping full-stack products end to end.
 
-- 🚀 Building **EduBuddy** — an AI-powered learning platform (live!)
-- 🏆 **3× Competition Award Winner** in robotics & IoT
-- 🤖 Teach **Arduino & Robotics** — I believe in sharing knowledge
-- 🌱 Currently deepening: distributed systems, AI/ML pipelines
-- 📍 Based in **Bangladesh**
+```diff
++ building AI agents (text-to-SQL, tool routing, web search) — OpenAI Agents SDK / LangChain
++ shipped EduBuddy — an AI-powered learning platform — [ LIVE ]
++ 3x competition award winner :: robotics & IoT
++ teaching Arduino & Robotics — knowledge compounds when shared
++ leveling up :: distributed systems / MLOps / production AI pipelines
++ location :: Bangladesh  [ UTC+6 ]
+```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## `//` TECH STACK
 
 <div align="center">
 
-**Languages**
+<img src="https://img.shields.io/badge/PYTHON-0A0A0F?style=for-the-badge&logo=python&logoColor=00F5FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/C%23-0A0A0F?style=for-the-badge&logo=csharp&logoColor=00F5FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/JAVA-0A0A0F?style=for-the-badge&logo=openjdk&logoColor=00F5FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/C++-0A0A0F?style=for-the-badge&logo=cplusplus&logoColor=00F5FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0A0A0F?style=for-the-badge&logo=javascript&logoColor=00F5FF&labelColor=0A0A0F" height="32"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br/><br/>
 
-**Backend & APIs**
+<img src="https://img.shields.io/badge/OPENAI%20AGENTS%20SDK-0A0A0F?style=for-the-badge&logo=openai&logoColor=B026FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-0A0A0F?style=for-the-badge&logo=langchain&logoColor=B026FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/YOLOv11-0A0A0F?style=for-the-badge&logoColor=B026FF&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/ANTHROPIC%20API-0A0A0F?style=for-the-badge&logo=anthropic&logoColor=B026FF&labelColor=0A0A0F" height="32"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/><br/>
 
-**Hardware & Embedded**
+<img src="https://img.shields.io/badge/DJANGO-0A0A0F?style=for-the-badge&logo=django&logoColor=FF2E9F&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/FASTAPI-0A0A0F?style=for-the-badge&logo=fastapi&logoColor=FF2E9F&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/EXPRESS-0A0A0F?style=for-the-badge&logo=express&logoColor=FF2E9F&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-0A0A0F?style=for-the-badge&logo=postgresql&logoColor=FF2E9F&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/DOCKER-0A0A0F?style=for-the-badge&logo=docker&logoColor=FF2E9F&labelColor=0A0A0F" height="32"/>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT_Systems-0078D4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ARDUINO-0A0A0F?style=for-the-badge&logo=arduino&logoColor=39FF14&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/ESP32-0A0A0F?style=for-the-badge&logo=espressif&logoColor=39FF14&labelColor=0A0A0F" height="32"/>
+<img src="https://img.shields.io/badge/IOT%20SYSTEMS-0A0A0F?style=for-the-badge&logoColor=39FF14&labelColor=0A0A0F" height="32"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## `//` FEATURED_PROJECTS
 
-<!-- ── SPOTLIGHT ROW — two pinned projects ── -->
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 GitSearch — GitHub Profile Analyzer
+### ⟨ 01 ⟩ Medical Multi-Tool AI Agent
 
-> *A developer intelligence engine that transforms any GitHub profile into structured, actionable insights.*
+```
+STATUS   :: ACTIVE
+DOMAIN   :: HEALTHCARE / LLM ORCHESTRATION
+```
 
-Enter any GitHub username and instantly get a full breakdown: contribution strength, repository impact, language distribution, and a calculated **developer score (0–100)** based on stars, forks, followers, and activity.
+An agent that answers medical questions two ways — text-to-SQL over real datasets, or live web search — and auto-selects the right one.
 
-**Highlights**
-- 🧠 Weighted developer scoring algorithm
-- 📦 Auto-detects top repositories
-- 📊 Language distribution mapping
-- ⚡ Real-time GitHub REST API integration
-- 🎨 Modern responsive UI (EJS + CSS)
+Routes each query to a `HeartDiseaseDBTool`, `CancerDBTool`, or `DiabetesDBTool` (LangChain SQL agents over their own SQLite DB), or to a Tavily-powered search tool for general knowledge. Ships with **two interchangeable orchestration layers** — OpenAI Agents SDK and LangChain `AgentExecutor` — sharing identical tools, plus a ready-to-run Colab notebook.
 
-**Tech:** `Node.js` `Express` `EJS` `GitHub API` `Axios`
+`Python` `OpenAI Agents SDK` `LangChain` `SQL Agents` `Tavily` `Groq`
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-4FD1C5?style=for-the-badge)](https://github-profile-analyzer-ashen.vercel.app/)
-[![Source Code](https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github)](https://github.com/MehdiHossenFahim/github-profile-analyzer)
+**[ ↗ SOURCE_CODE ](https://github.com/MehdiHossenFahim/medical-agent)**
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 BookNotes — Personal Reading Library
+### ⟨ 02 ⟩ Bangla Taka Note Detector
 
-> *A full-stack reading shelf — search, rate, and curate the books that shaped you.*
+```
+STATUS   :: DEPLOYED
+DOMAIN   :: COMPUTER VISION / EDGE INFERENCE
+```
 
-Type any book title and BookNotes automatically fetches the **cover art and author** from the Open Library API. Rate it 1–10, and it lands on your personal shelf — sortable by rating, title, or date added.
+A YOLOv11 computer-vision model that detects Bangladeshi banknotes, served as a Dockerized REST API.
 
-**Highlights**
-- 🔍 Live book search via Open Library API
-- ⭐ 1–10 rating system with visual progress bar
-- 🗂️ Three sort modes (top-rated · A–Z · newest)
-- 🚫 DB-level duplicate protection (`ON CONFLICT DO NOTHING`)
-- 📱 Fully responsive dark editorial UI
+Custom-trained YOLOv11 detector on an augmented Kaggle dataset, wrapped in a FastAPI service with `/predict` and `/health` endpoints, containerized and deployed live — with a fully reproducible Colab training pipeline.
 
-**Tech:** `Node.js` `Express` `PostgreSQL` `EJS` `Open Library API`
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-4FD1C5?style=for-the-badge)](https://book-notes-one.vercel.app/)]
-[![Source Code](https://img.shields.io/badge/Source%20Code-111827?style=for-the-badge&logo=github)](https://github.com/MehdiHossenFahim/booknotes)
+`Python` `YOLOv11` `FastAPI` `Docker` `Render`
+
+**[ ↗ LIVE_API ](https://bangla-taka-detector.onrender.com/docs)** &nbsp;·&nbsp; **[ ↗ SOURCE_CODE ](https://github.com/MehdiHossenFahim/bangla-taka-detector)**
 
 </td>
 </tr>
@@ -104,119 +120,192 @@ Type any book title and BookNotes automatically fetches the **cover art and auth
 
 <br/>
 
-<!-- ── OTHER PROJECTS ── -->
-<table>
+### `>` AI_AGENTS
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 EduBuddy — AI Learning Platform
-AI-powered education platform with optimized REST APIs and scalable backend architecture.
+**Bangladesh Multi-Tool AI Agent**
+LangChain agent routing between three SQLite databases — institutions, hospitals, restaurants (80k+ rows) — and a web-search fallback, generating and validating its own SQL per query.
 
-**Tech:** `Python` `FastAPI` `PostgreSQL` `Docker`
+`LangChain` `SQLite` `Text-to-SQL` `Groq / Gemini / Ollama`
 
-[![Live](https://img.shields.io/badge/Live%20Demo-22d3ee?style=flat-square&logo=vercel&logoColor=black)](https://edubuddy-web.onrender.com/)
+[ ↗ SOURCE ](https://github.com/MehdiHossenFahim/Bangladesh-Multi-Tool-AI-Agent)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🦾 6-DoF Robotic Arm
+**Job Application Tracker + AI Analyzer**
+Django app managing a job search pipeline (Wishlist → Applied → Interview → Offer), with an Anthropic API analyzer turning a pasted job description into a skills breakdown and interview prep notes.
+
+`Django` `Anthropic API` `Bootstrap 5`
+
+[ ↗ SOURCE ](https://github.com/MehdiHossenFahim/job-tracker-ai-analyzer)
+
+</td>
+</tr>
+</table>
+
+### `>` FULL_STACK_WEB_APPS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**GitSearch — GitHub Profile Analyzer**
+Turns any GitHub username into a weighted developer score (0–100) with language distribution and top-repo detection via the GitHub REST API.
+
+`Node.js` `Express` `EJS` `GitHub API`
+
+[ ↗ LIVE ](https://github-profile-analyzer-ashen.vercel.app/) &nbsp;·&nbsp; [ ↗ SOURCE ](https://github.com/MehdiHossenFahim/github-profile-analyzer)
+
+</td>
+<td width="50%" valign="top">
+
+**BookNotes — Personal Reading Library**
+Search, rate (1–10), and sort books fetched live from the Open Library API, with duplicate-safe PostgreSQL storage.
+
+`Node.js` `Express` `PostgreSQL` `Open Library API`
+
+[ ↗ LIVE ](https://book-notes-one.vercel.app/) &nbsp;·&nbsp; [ ↗ SOURCE ](https://github.com/MehdiHossenFahim/booknotes)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Bank Account Transaction Management System**
+Django app for deposits/withdrawals with strict per-user data isolation, searchable paginated history, CSV export, and dark mode.
+
+`Django` `SQLite` `Bootstrap 5`
+
+[ ↗ SOURCE ](https://github.com/MehdiHossenFahim/BankAccount-Transaction-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+**bookShop — Single-Vendor E-commerce**
+Django storefront with a session-based cart, checkout, order history, and full admin management — built to practice models, views, and forms end-to-end.
+
+`Django` `Bootstrap 5` `JavaScript`
+
+[ ↗ LIVE ](https://mehdihossenfahim.pythonanywhere.com/) &nbsp;·&nbsp; [ ↗ SOURCE ](https://github.com/MehdiHossenFahim/single-vendor-ecommerce)
+
+</td>
+</tr>
+</table>
+
+### `>` AI_PRODUCT_&_HARDWARE
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**EduBuddy — AI Learning Platform**
+AI-powered education platform with optimized REST APIs and a scalable backend architecture.
+
+`Python` `FastAPI` `PostgreSQL` `Docker`
+
+[ ↗ LIVE ](https://edubuddy-web.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+**6-DoF Robotic Arm**
 Precision 6-degree-of-freedom robotic arm with real-time motion control.
 
-**Award:** 🥈 2nd Place — NDUB Robotics
+`🥈` 2ND PLACE — NDUB ROBOTICS
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 IoT Health Monitoring System
+**IoT Health Monitoring System**
 Cloud-connected patient vitals monitoring via ESP32 and real-time data pipelines.
 
-**Award:** 🥇 1st Place
+`🥇` 1ST PLACE
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📷 ESP32-CAM Surveillance Rover
+**ESP32-CAM Surveillance Rover**
 Real-time video surveillance rover with live WiFi streaming.
 
-**Award:** 🥉 3rd Place
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 Command-Line OS (C#)
-A CLI-based operating system environment built from scratch in C#.
-
-</td>
-<td width="50%">
-
-### 📄 PDF Summarizer
-Intelligent document summarization tool powered by Python.
+`🥉` 3RD PLACE
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=github_dark" width="100%"/>
-
-</div>
+## `//` SYSTEM_METRICS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=radical" width="100%"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=radical" width="32%"/>
 
-![](https://komarev.com/ghpvc/?username=MehdiHossenFahim&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+<br/><br/>
 
-</div>
-
----
-
-## 🏆 Achievements & Experience
-
-<div align="center">
-
-| 🥇 1st Place | IoT Health Monitoring System |
-|:---:|:---|
-| 🥈 2nd Place | 6-DoF Robotic Arm — NDUB Competition |
-| 🥉 3rd Place | ESP32-CAM Surveillance Rover |
+<img src="https://komarev.com/ghpvc/?username=MehdiHossenFahim&color=B026FF&style=for-the-badge&label=PROFILE+SCANS"/>
 
 </div>
 
 <br/>
 
-| Role | Stack |
-|------|-------|
+## `//` ACHIEVEMENTS_&_EXPERIENCE
+
+<table width="100%">
+<tr><td width="50%" valign="top">
+
+**` COMPETITIONS `**
+
+| | |
+|---|---|
+| 🥇 | IoT Health Monitoring System |
+| 🥈 | 6-DoF Robotic Arm — NDUB |
+| 🥉 | ESP32-CAM Surveillance Rover |
+
+</td>
+<td width="50%" valign="top">
+
+**` ROLES `**
+
+| | |
+|---|---|
 | Software Developer Intern | FastAPI · PostgreSQL · Docker |
-| Arduino & Robotics Instructor | Arduino · C++ · IoT Hardware |
+| Robotics Instructor | Arduino · C++ · IoT |
 | Graphic Designer | UI/UX · Visual Design |
 
----
+</td></tr>
+</table>
 
-## 📬 Get In Touch
+<br/>
 
-I'm open to **full-time roles**, **freelance projects**, and **collaborations** in backend engineering, AI/ML systems, or IoT development.
+## `//` INITIATE_CONTACT
+
+```yaml
+status: open_to_work
+roles: [ full-time, freelance, collaboration ]
+focus: [ backend engineering, AI agents / LLM systems, IoT development ]
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hossen-fahim-322b49171)
+<a href="https://www.linkedin.com/in/mehedi-hossen-fahim-322b49171">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A0F" height="38"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=100&section=footer" width="100%"/>
