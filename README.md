@@ -20,33 +20,48 @@
 
 <br/>
 
-> ### I build systems that make decisions — not just apps that display data.
-> AI agents that choose their own tools. Computer-vision models trained from raw pixels to a live API. IoT hardware that talks to the cloud in real time. Three award-winning builds, one shipped AI product, zero tutorials-only experience.
-
-<br/>
-
 <div align="center">
 
-| 🤖 AI Agents Shipped | 🧠 CV Model Deployed | 🏆 Competition Wins | 🎓 Live AI Product |
-|:---:|:---:|:---:|:---:|
-| **3** | **1** | **3** | **EduBuddy** |
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0A0A0F?style=for-the-badge&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-0A0A0F?style=for-the-badge&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0A0A0F?style=for-the-badge&logoColor=FF2E9F&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
+<a href="#github-activity"><img src="https://img.shields.io/badge/ACTIVITY-0A0A0F?style=for-the-badge&logoColor=39FF14&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-0A0A0F?style=for-the-badge&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0A0A0F?style=for-the-badge&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
 
 </div>
 
 <br/>
 
-## `//` ABOUT
+### I build systems that make decisions — not just apps that display data.
 
-**→** Building AI agents that combine text-to-SQL, tool routing, and web search *(OpenAI Agents SDK · LangChain)*
-**→** Shipped **EduBuddy**, an AI-powered learning platform, to production — real users, real traffic
-**→** Trained and deployed a custom YOLOv11 model from a raw dataset to a live Dockerized API
-**→** 3× award winner in robotics & IoT competitions — 1st, 2nd, and 3rd place
-**→** Teaches Arduino & Robotics — the fastest way to master something is to explain it
-**→** Currently leveling up: distributed systems, MLOps, production AI pipelines
-**→** Based in Bangladesh · **open to full-time roles**
+AI agents that choose their own tools. Computer-vision models trained from raw pixels to a live API. IoT hardware that talks to the cloud in real time. Award-winning builds, production deployments, zero tutorials-only experience.
 
 <br/>
 
+<div align="center">
+
+| 🤖 AI Agents Shipped | 🧠 CV Model Deployed | 🏆 Competition Wins |
+|:---:|:---:|:---:|
+| **3** | **1** | **3** |
+
+</div>
+
+<br/>
+
+<a id="about"></a>
+## `//` ABOUT
+
+- Building AI agents that combine text-to-SQL, tool routing, and web search *(OpenAI Agents SDK · LangChain)*
+- Trained and deployed a custom YOLOv11 model — from a raw dataset to a live Dockerized API
+- 3× award winner in robotics & IoT competitions — 1st, 2nd, and 3rd place
+- Teaches Arduino & Robotics — the fastest way to master something is to explain it
+- Currently leveling up: distributed systems, MLOps, production AI pipelines
+- Based in Bangladesh · **open to full-time roles**
+
+<br/>
+
+<a id="tech-stack"></a>
 ## `//` TECH STACK
 
 <table width="100%">
@@ -79,6 +94,7 @@
 
 <br/>
 
+<a id="featured-projects"></a>
 ## `//` FEATURED PROJECTS
 
 <table width="100%">
@@ -88,9 +104,10 @@
 ### ⟨ 01 ⟩ Medical Multi-Tool AI Agent
 `ACTIVE` · `LLM ORCHESTRATION`
 
-**Problem:** medical Q&A tools either search the web blindly or query a database blindly — never both, never intelligently.
-**Built:** an agent that auto-routes each question to the right `HeartDiseaseDBTool`, `CancerDBTool`, or `DiabetesDBTool` — each a LangChain SQL agent over its own database — or to live web search when the question needs current knowledge.
-**Impact:** two fully interchangeable orchestration layers (OpenAI Agents SDK + LangChain `AgentExecutor`) sharing one tool set, proving the architecture isn't locked to a single framework.
+- Auto-routes each question to the right `HeartDiseaseDBTool`, `CancerDBTool`, or `DiabetesDBTool` — LangChain SQL agents, each over its own database
+- Falls back to live Tavily web search when a question needs general or current knowledge
+- Ships **two interchangeable orchestration layers** — OpenAI Agents SDK and LangChain `AgentExecutor` — sharing one identical tool set
+- Includes a ready-to-run Colab notebook for instant reproduction
 
 `Python` `OpenAI Agents SDK` `LangChain` `SQL Agents` `Tavily` `Groq`
 
@@ -102,9 +119,10 @@
 ### ⟨ 02 ⟩ Bangla Taka Note Detector
 `DEPLOYED` · `COMPUTER VISION`
 
-**Problem:** no accessible, real-time way to identify Bangladeshi banknotes from an image.
-**Built:** a YOLOv11 detector trained on an augmented Kaggle dataset, wrapped in a FastAPI service with `/predict` and `/health` endpoints, containerized and shipped live.
-**Impact:** a fully reproducible pipeline — anyone can retrain the model from the Colab notebook and redeploy the same container in minutes.
+- Custom-trained YOLOv11 detector on an augmented Kaggle banknote dataset
+- Served via a FastAPI service with `/predict` and `/health` endpoints
+- Fully containerized and deployed live on Render
+- End-to-end reproducible: retrain from the Colab notebook, redeploy the same container
 
 `Python` `YOLOv11` `FastAPI` `Docker` `Render`
 
@@ -123,7 +141,10 @@
 <td width="50%" valign="top">
 
 **Bangladesh Multi-Tool AI Agent**
-Routes between **3 SQLite databases spanning 80k+ rows** (institutions, hospitals, restaurants) and a web-search fallback — generating and validating its own SQL per query, with pluggable LLM backends (Groq / Gemini / Ollama).
+- Routes between **3 SQLite databases spanning 80k+ rows** (institutions, hospitals, restaurants)
+- Falls back to web search when the databases don't have the answer
+- Generates and validates its own SQL per query
+- Pluggable LLM backends — Groq / Gemini / Ollama
 
 `LangChain` `SQLite` `Text-to-SQL`
 
@@ -133,7 +154,10 @@ Routes between **3 SQLite databases spanning 80k+ rows** (institutions, hospital
 <td width="50%" valign="top">
 
 **Job Application Tracker + AI Analyzer**
-A Django pipeline (Wishlist → Applied → Interview → Offer) with an Anthropic-API analyzer that turns any pasted job post into a skills breakdown and interview prep notes — built to solve the exact job hunt I'm on now.
+- Django pipeline: Wishlist → Applied → Interview → Offer
+- Anthropic-API analyzer turns a pasted job post into a skills breakdown
+- Auto-generates interview prep notes per application
+- Built to solve the exact job hunt I'm on right now
 
 `Django` `Anthropic API` `Bootstrap 5`
 
@@ -150,7 +174,9 @@ A Django pipeline (Wishlist → Applied → Interview → Offer) with an Anthrop
 <td width="50%" valign="top">
 
 **GitSearch — GitHub Profile Analyzer**
-Converts any GitHub username into a weighted developer score (0–100), scored on language distribution and repo quality via the GitHub REST API.
+- Converts any GitHub username into a weighted developer score (0–100)
+- Scores based on language distribution and top-repo detection
+- Powered live by the GitHub REST API
 
 `Node.js` `Express` `EJS` `GitHub API`
 
@@ -160,7 +186,9 @@ Converts any GitHub username into a weighted developer score (0–100), scored o
 <td width="50%" valign="top">
 
 **BookNotes — Personal Reading Library**
-Search, rate (1–10), and sort books pulled live from the Open Library API, backed by duplicate-safe PostgreSQL storage.
+- Search, rate (1–10), and sort books
+- Live data pulled from the Open Library API
+- Duplicate-safe PostgreSQL storage
 
 `Node.js` `Express` `PostgreSQL`
 
@@ -172,7 +200,9 @@ Search, rate (1–10), and sort books pulled live from the Open Library API, bac
 <td width="50%" valign="top">
 
 **Bank Account Transaction Management System**
-Deposits/withdrawals with strict per-user data isolation, searchable paginated history, CSV export, and dark mode.
+- Deposits/withdrawals with strict per-user data isolation
+- Searchable, paginated transaction history
+- CSV export + dark mode
 
 `Django` `SQLite` `Bootstrap 5`
 
@@ -182,7 +212,9 @@ Deposits/withdrawals with strict per-user data isolation, searchable paginated h
 <td width="50%" valign="top">
 
 **bookShop — Single-Vendor E-commerce**
-Full storefront: session-based cart, checkout, order history, admin management — models, views, and forms exercised end to end.
+- Session-based cart and full checkout flow
+- Order history + complete admin management
+- Models, views, and forms exercised end to end
 
 `Django` `Bootstrap 5` `JavaScript`
 
@@ -192,42 +224,33 @@ Full storefront: session-based cart, checkout, order history, admin management �
 </tr>
 </table>
 
-### `>` AI PRODUCT & HARDWARE
+### `>` HARDWARE & ROBOTICS
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**EduBuddy — AI Learning Platform**
-AI-powered education platform, live in production, with optimized REST APIs and a scalable backend.
-
-`Python` `FastAPI` `PostgreSQL` `Docker`
-
-[ ↗ Live ](https://edubuddy-web.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **6-DoF Robotic Arm**
-Precision 6-degree-of-freedom arm with real-time motion control.
+- Precision 6-degree-of-freedom control
+- Real-time motion planning
 
 🥈 **2nd Place** — NDUB Robotics
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **IoT Health Monitoring System**
-Cloud-connected patient vitals monitoring via ESP32 and real-time data pipelines.
+- Cloud-connected patient vitals monitoring
+- Real-time ESP32 data pipelines
 
 🥇 **1st Place**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **ESP32-CAM Surveillance Rover**
-Real-time video surveillance rover with live WiFi streaming.
+- Real-time video surveillance
+- Live WiFi streaming
 
 🥉 **3rd Place**
 
@@ -237,6 +260,7 @@ Real-time video surveillance rover with live WiFi streaming.
 
 <br/>
 
+<a id="github-activity"></a>
 ## `//` GITHUB ACTIVITY
 
 <div align="center">
@@ -257,6 +281,7 @@ Real-time video surveillance rover with live WiFi streaming.
 
 <br/>
 
+<a id="achievements"></a>
 ## `//` ACHIEVEMENTS & EXPERIENCE
 
 <table width="100%">
@@ -286,6 +311,7 @@ Real-time video surveillance rover with live WiFi streaming.
 
 <br/>
 
+<a id="contact"></a>
 ## `//` LET'S TALK
 
 If you're hiring for backend engineering, AI agent / LLM systems, or IoT development — this is the profile you were looking for. I ship, I document, and I explain my systems clearly, which is most of what makes an engineer easy to work with.
