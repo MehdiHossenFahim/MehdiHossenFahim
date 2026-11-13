@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=AI%20ENGINEER%20%20%2F%2F%20%20LLM%20AGENTS%20%26%20RAG%20%20%2F%2F%20%20COMPUTER%20VISION&descAlignY=58&descSize=14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=AI%20ENGINEER%20%20%2F%2F%20%20LLM%20AGENTS%20%2B%20RAG%20%20%2F%2F%20%20COMPUTER%20VISION&descAlignY=58&descSize=14" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=building+bilingual+hybrid+RAG+pipelines+with+LangGraph;orchestrating+multi-agent+systems+%28CrewAI+%2B+OpenAI+SDK%29;training+YOLOv11+models+from+raw+pixels+to+live+APIs;engineering+IoT+systems+that+talk+to+the+cloud" alt="Typing SVG"/>
 
