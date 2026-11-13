@@ -1,47 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=AI%20ENGINEER%20%20%2F%2F%20%20LLM%20AGENTS%20%2B%20RAG%20%20%2F%2F%20%20COMPUTER%20VISION&descAlignY=58&descSize=14" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=building+bilingual+hybrid+RAG+pipelines+with+LangGraph;orchestrating+multi-agent+systems+%28CrewAI+%2B+OpenAI+SDK%29;training+YOLOv11+models+from+raw+pixels+to+live+APIs;engineering+IoT+systems+that+talk+to+the+cloud" alt="Typing SVG"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=F8FAFC&fontAlign=50&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20%20LLM%20AGENTS%20%2B%20RAG%20%20%C2%B7%20%20COMPUTER%20VISION&descAlign=50&descAlignY=62&descSize=14&descColor=38BDF8">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F1F5F9,50:E2E8F0,100:F1F5F9&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=0F172A&fontAlign=50&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20%20LLM%20AGENTS%20%2B%20RAG%20%20%C2%B7%20%20COMPUTER%20VISION&descAlign=50&descAlignY=62&descSize=14&descColor=0369A1">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=F8FAFC&fontAlign=50&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20%20LLM%20AGENTS%20%2B%20RAG%20%20%C2%B7%20%20COMPUTER%20VISION&descAlign=50&descAlignY=62&descSize=14&descColor=38BDF8" alt="Mehedi Hossen Fahim" width="100%"/>
+</picture>
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=0369A1&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud" alt="Typing SVG"/>
+</picture>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/mehedihossenfahim/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="30"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 <a href="https://portfolio-mehedi-hossen-fahim.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0F?style=for-the-badge&logo=vercel&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="30"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-Showcase-2563EB?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 <a href="https://github.com/MehdiHossenFahim">
-  <img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=FF2E9F&labelColor=0A0A0F&color=0A0A0F" height="30"/>
+  <img src="https://img.shields.io/badge/GITHUB-Repositories-24292F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
+</a>
+<a href="mailto:mehdihossenfahim@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-334155?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-0A0A0F?style=for-the-badge&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-0A0A0F?style=for-the-badge&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0A0A0F?style=for-the-badge&logoColor=FF2E9F&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
-<a href="#github-activity"><img src="https://img.shields.io/badge/ACTIVITY-0A0A0F?style=for-the-badge&logoColor=39FF14&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
-<a href="#achievements"><img src="https://img.shields.io/badge/ACHIEVEMENTS-0A0A0F?style=for-the-badge&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-0A0A0F?style=for-the-badge&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="28"/></a>
+<sub>
+  <a href="#about"><b>ABOUT</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#tech-stack"><b>STACK</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#featured-projects"><b>PROJECTS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#github-activity"><b>ACTIVITY</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#achievements"><b>EXPERIENCE</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#contact"><b>CONTACT</b></a>
+</sub>
 
 </div>
 
-<br/>
+---
 
 ### I build systems that make decisions — not just apps that display data.
 
-Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer-vision models trained from raw pixels to a live Dockerized API. IoT hardware that talks to the cloud in real time. Award-winning builds, production deployments, zero tutorials-only experience.
-
-<br/>
+Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer-vision models trained from raw pixels to live Dockerized APIs. IoT hardware streaming telemetry to the cloud in real time. Award-winning builds and production deployments.
 
 <div align="center">
 
-| 🤖 AI & RAG Systems | 🧠 CV Model Deployed | 🏆 Competition Wins |
+| AI & RAG Systems | CV Models Deployed | Robotics & IoT Wins |
 |:---:|:---:|:---:|
 | **5** | **1** | **3** |
 
@@ -50,66 +59,66 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 <br/>
 
 <a id="about"></a>
-## `//` ABOUT
+## `01` // ABOUT
 
-- Architecting bilingual hybrid RAG and multi-agent LLM orchestration systems *(LangGraph · CrewAI · OpenAI Agents SDK · LangChain)*
-- Trained and deployed a custom YOLOv11 model — from a raw dataset to a live Dockerized FastAPI service
-- 3× award winner in robotics & IoT competitions — 1st, 2nd, and 3rd place across inter-university and NDUB competitions
-- Former Robotics Instructor — taught Arduino, microcontrollers, and embedded systems to 50+ students
-- Currently leveling up: distributed AI backends, LLM evaluation, production MLOps
-- Based in Dhaka, Bangladesh · **open to AI Engineer & Backend roles**
+- **Agentic AI & Retrieval:** Architecting bilingual hybrid RAG and multi-agent LLM orchestration systems *(LangGraph · CrewAI · OpenAI Agents SDK · LangChain)*
+- **End-to-End Computer Vision:** Trained and deployed a custom YOLOv11 model from a raw dataset to a live Dockerized FastAPI microservice
+- **Hardware & Embedded Systems:** 3× award winner in robotics & IoT competitions (1st, 2nd, and 3rd place across inter-university and NDUB events)
+- **Technical Mentorship:** Former Robotics Instructor — taught Arduino, microcontrollers, and embedded systems to 50+ students
+- **Current Focus:** Distributed AI backends, LLM evaluation pipelines, and production MLOps
+- **Location:** Dhaka, Bangladesh · **Open to AI Engineer & Python Backend roles**
 
 <br/>
 
 <a id="tech-stack"></a>
-## `//` TECH STACK
+## `02` // TECH STACK
 
 <table width="100%">
-<tr><td width="16%"><b>AI / LLM</b></td><td>
-<img src="https://img.shields.io/badge/LangGraph-0A0A0F?style=flat-square&logo=langchain&logoColor=B026FF" height="28"/>
-<img src="https://img.shields.io/badge/CrewAI-0A0A0F?style=flat-square&logoColor=B026FF" height="28"/>
-<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-0A0A0F?style=flat-square&logo=openai&logoColor=B026FF" height="28"/>
-<img src="https://img.shields.io/badge/LangChain-0A0A0F?style=flat-square&logo=langchain&logoColor=B026FF" height="28"/>
-<img src="https://img.shields.io/badge/Hybrid%20RAG%20%28BM25%20%2B%20ChromaDB%29-0A0A0F?style=flat-square&logoColor=B026FF" height="28"/>
-<img src="https://img.shields.io/badge/YOLOv11-0A0A0F?style=flat-square&logoColor=B026FF" height="28"/>
+<tr><td width="18%"><b>AI / LLM</b></td><td>
+<img src="https://img.shields.io/badge/LangGraph-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/CrewAI-1E293B?style=flat-square&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-1E293B?style=flat-square&logo=openai&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/LangChain-1E293B?style=flat-square&logo=langchain&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/Hybrid%20RAG%20(BM25%20%2B%20ChromaDB)-1E293B?style=flat-square&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/YOLOv11-1E293B?style=flat-square&logoColor=38BDF8" height="26"/>
 </td></tr>
-<tr><td><b>Backend & DB</b></td><td>
-<img src="https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF2E9F" height="28"/>
-<img src="https://img.shields.io/badge/Django-0A0A0F?style=flat-square&logo=django&logoColor=FF2E9F" height="28"/>
-<img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0A0A0F?style=flat-square&logo=express&logoColor=FF2E9F" height="28"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=FF2E9F" height="28"/>
-<img src="https://img.shields.io/badge/SQLite-0A0A0F?style=flat-square&logo=sqlite&logoColor=FF2E9F" height="28"/>
-<img src="https://img.shields.io/badge/Docker-0A0A0F?style=flat-square&logo=docker&logoColor=FF2E9F" height="28"/>
+<tr><td><b>Backend & Infra</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/Django-1E293B?style=flat-square&logo=django&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/Node.js%20%2F%20Express-1E293B?style=flat-square&logo=express&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/SQLite-1E293B?style=flat-square&logo=sqlite&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=38BDF8" height="26"/>
 </td></tr>
 <tr><td><b>Languages</b></td><td>
-<img src="https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/C-0A0A0F?style=flat-square&logo=c&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/SQL-0A0A0F?style=flat-square&logoColor=00F5FF" height="28"/>
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/C-1E293B?style=flat-square&logo=c&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/SQL-1E293B?style=flat-square&logoColor=38BDF8" height="26"/>
 </td></tr>
 <tr><td><b>Hardware</b></td><td>
-<img src="https://img.shields.io/badge/ESP32-0A0A0F?style=flat-square&logo=espressif&logoColor=39FF14" height="28"/>
-<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=flat-square&logo=arduino&logoColor=39FF14" height="28"/>
-<img src="https://img.shields.io/badge/IoT%20%26%20Robotics-0A0A0F?style=flat-square&logoColor=39FF14" height="28"/>
+<img src="https://img.shields.io/badge/ESP32-1E293B?style=flat-square&logo=espressif&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/Arduino-1E293B?style=flat-square&logo=arduino&logoColor=38BDF8" height="26"/>
+<img src="https://img.shields.io/badge/IoT%20%26%20Robotics-1E293B?style=flat-square&logoColor=38BDF8" height="26"/>
 </td></tr>
 </table>
 
 <br/>
 
 <a id="featured-projects"></a>
-## `//` FEATURED PROJECTS
+## `03` // FEATURED PROJECTS
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### ⟨ 01 ⟩ Bilingual Citizen Services AI Assistant
-`FLAGSHIP` · `AGENTIC HYBRID RAG`
+### `01` Bilingual Citizen Services AI Assistant
+<sub><b>FLAGSHIP</b> · AGENTIC HYBRID RAG</sub>
 
 - Architected an agentic bilingual (**English / Bengali**) RAG system combining dense ChromaDB vector embeddings and sparse BM25 lexical retrieval
 - Implemented **LangGraph self-corrective routing** to evaluate document relevance and minimize hallucinations
-- Built and deployed a full-stack inference pipeline using an asynchronous FastAPI backend on Render and a React 18 frontend on Vercel
+- Deployed an asynchronous FastAPI inference backend on Render paired with a React 18 frontend on Vercel
 
 `Python` `FastAPI` `LangGraph` `ChromaDB` `BM25` `Gemini API` `React 18`
 
@@ -118,11 +127,11 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 </td>
 <td width="50%" valign="top">
 
-### ⟨ 02 ⟩ Leo — Multi-Agent AI Study Assistant
-`DEPLOYED` · `MULTI-AGENT ORCHESTRATION`
+### `02` Leo — Multi-Agent AI Study Assistant
+<sub><b>DEPLOYED</b> · MULTI-AGENT ORCHESTRATION</sub>
 
 - Engineered a **4-agent collaborative tutoring pipeline** (*Coordinator, Explainer, Quiz Master, and Evaluator*) powered by CrewAI
-- Decomposes complex technical concepts, generates targeted practice quizzes, and automates structured answer evaluation
+- Decomposes complex technical topics, generates targeted quizzes, and automates structured answer evaluation
 - Deployed as an interactive Streamlit application for adaptive self-paced learning
 
 `Python` `CrewAI` `Streamlit` `Multi-Agent Orchestration`
@@ -134,11 +143,11 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 <tr>
 <td width="50%" valign="top">
 
-### ⟨ 03 ⟩ Medical Multi-Tool AI Agent
-`ACTIVE` · `LLM ORCHESTRATION`
+### `03` Medical Multi-Tool AI Agent
+<sub><b>ACTIVE</b> · LLM ORCHESTRATION</sub>
 
 - Auto-routes clinical queries across **3 structured medical databases** (`HeartDiseaseDB`, `CancerDB`, `DiabetesDB`) using validated Text-to-SQL generation
-- Falls back to real-time Tavily web search for out-of-schema or general medical questions
+- Falls back to real-time Tavily web search for out-of-schema or general medical queries
 - Ships **two interchangeable orchestration layers** — OpenAI Agents SDK and LangChain — sharing one unified toolset
 
 `Python` `OpenAI Agents SDK` `LangChain` `SQL Agents` `Tavily` `Groq`
@@ -148,8 +157,8 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 </td>
 <td width="50%" valign="top">
 
-### ⟨ 04 ⟩ Bangla Taka Note Detector
-`DEPLOYED` · `COMPUTER VISION`
+### `04` Bangla Taka Note Detector
+<sub><b>DEPLOYED</b> · COMPUTER VISION</sub>
 
 - Custom-trained YOLOv11 object detection model to classify Bangladeshi Taka banknote denominations
 - Packaged as a Dockerized FastAPI microservice exposing `/predict` and `/health` RESTful endpoints
@@ -253,7 +262,7 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 **IoT Health Monitoring System**
 - Cloud-connected patient vitals monitoring with real-time ESP32 sensor pipelines
 
-🥇 **1st Place** — NDUB Robotics Competition (2025)
+**1st Place** — NDUB Robotics Competition (2025)
 
 </td>
 <td width="33%" valign="top">
@@ -261,7 +270,7 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 **6-DoF Robotic Arm**
 - Precision 6-degree-of-freedom kinematic control and real-time motion planning
 
-🥈 **2nd Place** — NDUB Robotics Competition (2023)
+**2nd Place** — NDUB Robotics Competition (2023)
 
 </td>
 <td width="33%" valign="top">
@@ -269,7 +278,7 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 **ESP32-CAM Surveillance Rover**
 - Remote-controlled rover with live WiFi video streaming and telemetry
 
-🥉 **3rd Place** — Inter-University Robotics Competition (2024)
+**3rd Place** — Inter-University Robotics Competition (2024)
 
 </td>
 </tr>
@@ -278,39 +287,55 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 <br/>
 
 <a id="github-activity"></a>
-## `//` GITHUB ACTIVITY
+## `04` // GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=radical" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=github_dark" width="100%"/>
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=radical" width="32%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
+</picture>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MehdiHossenFahim&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=MehdiHossenFahim&color=2563EB&style=flat-square&labelColor=0F172A&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
 <a id="achievements"></a>
-## `//` ACHIEVEMENTS & EXPERIENCE
+## `05` // ACHIEVEMENTS & EXPERIENCE
 
 <table width="100%">
 <tr><td width="50%" valign="top">
 
 **Competitions**
 
-| Award | Project & Event |
+| Rank | Project & Event |
 |---|---|
-| 🥇 **1st Place** | IoT Health Monitoring System — *NDUB Robotics Competition (2025)* |
-| 🥈 **2nd Place** | 6-DoF Robotic Arm — *NDUB Robotics Competition (2023)* |
-| 🥉 **3rd Place** | ESP32-CAM Surveillance Rover — *Inter-University Robotics Competition (2024)* |
+| **01** | IoT Health Monitoring System — *NDUB Robotics Competition (2025)* |
+| **02** | 6-DoF Robotic Arm — *NDUB Robotics Competition (2023)* |
+| **03** | ESP32-CAM Surveillance Rover — *Inter-University Robotics Competition (2024)* |
 
 </td>
 <td width="50%" valign="top">
@@ -329,18 +354,22 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 <br/>
 
 <a id="contact"></a>
-## `//` LET'S TALK
+## `06` // CONTACT
 
 If you're hiring for **AI Engineer**, **LLM / RAG Systems**, or **Python Backend** roles — let's connect. I ship, I document, and I explain my systems clearly.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mehedihossenfahim/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A0F" height="38"/>
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-Mehedi%20Hossen%20Fahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0F172A" height="34"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=110&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=110&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F1F5F9,50:E2E8F0,100:F1F5F9&height=110&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=110&section=footer" width="100%"/>
+</picture>
 
 </div>
