@@ -1,43 +1,33 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=F8FAFC&fontAlign=50&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20%20LLM%20AGENTS%20%2B%20RAG%20%20%C2%B7%20%20COMPUTER%20VISION&descAlign=50&descAlignY=62&descSize=14&descColor=38BDF8">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F1F5F9,50:E2E8F0,100:F1F5F9&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=0F172A&fontAlign=50&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20%20LLM%20AGENTS%20%2B%20RAG%20%20%C2%B7%20%20COMPUTER%20VISION&descAlign=50&descAlignY=62&descSize=14&descColor=0369A1">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=F8FAFC&fontAlign=50&fontAlignY=40&desc=AI%20ENGINEER%20%20%C2%B7%20%20LLM%20AGENTS%20%2B%20RAG%20%20%C2%B7%20%20COMPUTER%20VISION&descAlign=50&descAlignY=62&descSize=14&descColor=38BDF8" alt="Mehedi Hossen Fahim" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=AI%20ENGINEER%20%20%2F%2F%20%20LLM%20AGENTS%20%2B%20RAG%20%20%2F%2F%20%20COMPUTER%20VISION&descAlign=50&descAlignY=58&descSize=14&descColor=38BDF8" alt="Mehedi Hossen Fahim" width="100%"/>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=0369A1&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud" alt="Typing SVG"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=0284C7&center=true&vCenter=true&width=640&lines=Building+bilingual+hybrid+RAG+pipelines+with+LangGraph;Orchestrating+multi-agent+systems+(CrewAI+%2B+OpenAI+SDK);Training+YOLOv11+models+from+raw+pixels+to+live+APIs;Engineering+IoT+systems+connected+to+the+cloud" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/mehedihossenfahim/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 <a href="https://portfolio-mehedi-hossen-fahim.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Showcase-2563EB?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Showcase-2563EB?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 <a href="https://github.com/MehdiHossenFahim">
-  <img src="https://img.shields.io/badge/GITHUB-Repositories-24292F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
+<img src="https://img.shields.io/badge/GITHUB-Repositories-24292F?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 <a href="mailto:mehdihossenfahim@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-334155?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-334155?style=for-the-badge&logo=gmail&logoColor=F8FAFC&labelColor=0F172A" height="32"/>
 </a>
 
 <br/><br/>
 
 <sub>
-  <a href="#about"><b>ABOUT</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#tech-stack"><b>STACK</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#featured-projects"><b>PROJECTS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#github-activity"><b>ACTIVITY</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#achievements"><b>EXPERIENCE</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#contact"><b>CONTACT</b></a>
+<a href="#about"><b>ABOUT</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#tech-stack"><b>STACK</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#featured-projects"><b>PROJECTS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#github-activity"><b>ACTIVITY</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#achievements"><b>EXPERIENCE</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#contact"><b>CONTACT</b></a>
 </sub>
 
 </div>
@@ -291,29 +281,13 @@ Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=github_dark" width="100%"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehdiHossenFahim&theme=transparent" width="100%"/>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=github_dark" width="32%"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehdiHossenFahim&theme=transparent" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MehdiHossenFahim&theme=transparent" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MehdiHossenFahim&theme=transparent" width="32%"/>
 
 <br/><br/>
 
@@ -361,15 +335,11 @@ If you're hiring for **AI Engineer**, **LLM / RAG Systems**, or **Python Backend
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mehedihossenfahim/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-Mehedi%20Hossen%20Fahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0F172A" height="34"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-Mehedi%20Hossen%20Fahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0F172A" height="34"/>
 </a>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=110&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F1F5F9,50:E2E8F0,100:F1F5F9&height=110&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=110&section=footer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E293B,100:0B0F19&height=110&section=footer" width="100%"/>
 
 </div>
