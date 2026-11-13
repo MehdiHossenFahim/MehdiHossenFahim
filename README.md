@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%20%2F%2F%20%20AI%20AGENTS%20%20%2F%2F%20%20IoT%20SYSTEMS&descAlignY=58&descSize=14&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1A0B2E,100:0A0A0F&height=200&section=header&text=MEHEDI%20HOSSEN%20FAHIM&fontSize=36&fontColor=00F5FF&fontAlignY=38&desc=AI%20ENGINEER%20%20%2F%2F%20%20LLM%20AGENTS%20%26%20RAG%20%20%2F%2F%20%20COMPUTER%20VISION&descAlignY=58&descSize=14&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=building+AI+agents+that+think+in+SQL+%2B+search;training+computer+vision+models+from+scratch;engineering+IoT+systems+that+talk+to+the+cloud;shipping+production-grade+full-stack+apps" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=building+bilingual+hybrid+RAG+pipelines+with+LangGraph;orchestrating+multi-agent+systems+%28CrewAI+%2B+OpenAI+SDK%29;training+YOLOv11+models+from+raw+pixels+to+live+APIs;engineering+IoT+systems+that+talk+to+the+cloud" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mehedi-hossen-fahim-322b49171">
+<a href="https://www.linkedin.com/in/mehedihossenfahim/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A0F&color=0A0A0F" height="30"/>
 </a>
-<a href="https://portfolio-mehedi-hossen-fahim.vercel.app">
+<a href="https://portfolio-mehedi-hossen-fahim.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0F?style=for-the-badge&logo=vercel&logoColor=B026FF&labelColor=0A0A0F&color=0A0A0F" height="30"/>
 </a>
 <a href="https://github.com/MehdiHossenFahim">
@@ -35,15 +35,15 @@
 
 ### I build systems that make decisions — not just apps that display data.
 
-AI agents that choose their own tools. Computer-vision models trained from raw pixels to a live API. IoT hardware that talks to the cloud in real time. Award-winning builds, production deployments, zero tutorials-only experience.
+Multi-agent LLM pipelines that plan, route, retrieve, and self-correct. Computer-vision models trained from raw pixels to a live Dockerized API. IoT hardware that talks to the cloud in real time. Award-winning builds, production deployments, zero tutorials-only experience.
 
 <br/>
 
 <div align="center">
 
-| 🤖 AI Agents Shipped | 🧠 CV Model Deployed | 🏆 Competition Wins |
+| 🤖 AI & RAG Systems | 🧠 CV Model Deployed | 🏆 Competition Wins |
 |:---:|:---:|:---:|
-| **3** | **1** | **3** |
+| **5** | **1** | **3** |
 
 </div>
 
@@ -52,12 +52,12 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <a id="about"></a>
 ## `//` ABOUT
 
-- Building AI agents that combine text-to-SQL, tool routing, and web search *(OpenAI Agents SDK · LangChain)*
-- Trained and deployed a custom YOLOv11 model — from a raw dataset to a live Dockerized API
-- 3× award winner in robotics & IoT competitions — 1st, 2nd, and 3rd place
-- Teaches Arduino & Robotics — the fastest way to master something is to explain it
-- Currently leveling up: distributed systems, MLOps, production AI pipelines
-- Based in Bangladesh · **open to full-time roles**
+- Architecting bilingual hybrid RAG and multi-agent LLM orchestration systems *(LangGraph · CrewAI · OpenAI Agents SDK · LangChain)*
+- Trained and deployed a custom YOLOv11 model — from a raw dataset to a live Dockerized FastAPI service
+- 3× award winner in robotics & IoT competitions — 1st, 2nd, and 3rd place across inter-university and NDUB competitions
+- Former Robotics Instructor — taught Arduino, microcontrollers, and embedded systems to 50+ students
+- Currently leveling up: distributed AI backends, LLM evaluation, production MLOps
+- Based in Dhaka, Bangladesh · **open to AI Engineer & Backend roles**
 
 <br/>
 
@@ -65,30 +65,33 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 ## `//` TECH STACK
 
 <table width="100%">
-<tr><td width="16%"><b>Languages</b></td><td>
-<img src="https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/C%23-0A0A0F?style=flat-square&logo=csharp&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/C++-0A0A0F?style=flat-square&logo=cplusplus&logoColor=00F5FF" height="28"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=00F5FF" height="28"/>
-</td></tr>
-<tr><td><b>AI / ML</b></td><td>
+<tr><td width="16%"><b>AI / LLM</b></td><td>
+<img src="https://img.shields.io/badge/LangGraph-0A0A0F?style=flat-square&logo=langchain&logoColor=B026FF" height="28"/>
+<img src="https://img.shields.io/badge/CrewAI-0A0A0F?style=flat-square&logoColor=B026FF" height="28"/>
 <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-0A0A0F?style=flat-square&logo=openai&logoColor=B026FF" height="28"/>
 <img src="https://img.shields.io/badge/LangChain-0A0A0F?style=flat-square&logo=langchain&logoColor=B026FF" height="28"/>
+<img src="https://img.shields.io/badge/Hybrid%20RAG%20%28BM25%20%2B%20ChromaDB%29-0A0A0F?style=flat-square&logoColor=B026FF" height="28"/>
 <img src="https://img.shields.io/badge/YOLOv11-0A0A0F?style=flat-square&logoColor=B026FF" height="28"/>
-<img src="https://img.shields.io/badge/Anthropic%20API-0A0A0F?style=flat-square&logo=anthropic&logoColor=B026FF" height="28"/>
 </td></tr>
-<tr><td><b>Backend</b></td><td>
-<img src="https://img.shields.io/badge/Django-0A0A0F?style=flat-square&logo=django&logoColor=FF2E9F" height="28"/>
+<tr><td><b>Backend & DB</b></td><td>
 <img src="https://img.shields.io/badge/FastAPI-0A0A0F?style=flat-square&logo=fastapi&logoColor=FF2E9F" height="28"/>
-<img src="https://img.shields.io/badge/Express-0A0A0F?style=flat-square&logo=express&logoColor=FF2E9F" height="28"/>
+<img src="https://img.shields.io/badge/Django-0A0A0F?style=flat-square&logo=django&logoColor=FF2E9F" height="28"/>
+<img src="https://img.shields.io/badge/Node.js%20%2F%20Express-0A0A0F?style=flat-square&logo=express&logoColor=FF2E9F" height="28"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0A0A0F?style=flat-square&logo=postgresql&logoColor=FF2E9F" height="28"/>
+<img src="https://img.shields.io/badge/SQLite-0A0A0F?style=flat-square&logo=sqlite&logoColor=FF2E9F" height="28"/>
 <img src="https://img.shields.io/badge/Docker-0A0A0F?style=flat-square&logo=docker&logoColor=FF2E9F" height="28"/>
 </td></tr>
+<tr><td><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Python-0A0A0F?style=flat-square&logo=python&logoColor=00F5FF" height="28"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0F?style=flat-square&logo=javascript&logoColor=00F5FF" height="28"/>
+<img src="https://img.shields.io/badge/Java-0A0A0F?style=flat-square&logo=openjdk&logoColor=00F5FF" height="28"/>
+<img src="https://img.shields.io/badge/C-0A0A0F?style=flat-square&logo=c&logoColor=00F5FF" height="28"/>
+<img src="https://img.shields.io/badge/SQL-0A0A0F?style=flat-square&logoColor=00F5FF" height="28"/>
+</td></tr>
 <tr><td><b>Hardware</b></td><td>
-<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=flat-square&logo=arduino&logoColor=39FF14" height="28"/>
 <img src="https://img.shields.io/badge/ESP32-0A0A0F?style=flat-square&logo=espressif&logoColor=39FF14" height="28"/>
-<img src="https://img.shields.io/badge/IoT%20Systems-0A0A0F?style=flat-square&logoColor=39FF14" height="28"/>
+<img src="https://img.shields.io/badge/Arduino-0A0A0F?style=flat-square&logo=arduino&logoColor=39FF14" height="28"/>
+<img src="https://img.shields.io/badge/IoT%20%26%20Robotics-0A0A0F?style=flat-square&logoColor=39FF14" height="28"/>
 </td></tr>
 </table>
 
@@ -101,13 +104,42 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <tr>
 <td width="50%" valign="top">
 
-### ⟨ 01 ⟩ Medical Multi-Tool AI Agent
+### ⟨ 01 ⟩ Bilingual Citizen Services AI Assistant
+`FLAGSHIP` · `AGENTIC HYBRID RAG`
+
+- Architected an agentic bilingual (**English / Bengali**) RAG system combining dense ChromaDB vector embeddings and sparse BM25 lexical retrieval
+- Implemented **LangGraph self-corrective routing** to evaluate document relevance and minimize hallucinations
+- Built and deployed a full-stack inference pipeline using an asynchronous FastAPI backend on Render and a React 18 frontend on Vercel
+
+`Python` `FastAPI` `LangGraph` `ChromaDB` `BM25` `Gemini API` `React 18`
+
+**[ ↗ Source Code ](https://github.com/MehdiHossenFahim/bilingual-citizen-assistant)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⟨ 02 ⟩ Leo — Multi-Agent AI Study Assistant
+`DEPLOYED` · `MULTI-AGENT ORCHESTRATION`
+
+- Engineered a **4-agent collaborative tutoring pipeline** (*Coordinator, Explainer, Quiz Master, and Evaluator*) powered by CrewAI
+- Decomposes complex technical concepts, generates targeted practice quizzes, and automates structured answer evaluation
+- Deployed as an interactive Streamlit application for adaptive self-paced learning
+
+`Python` `CrewAI` `Streamlit` `Multi-Agent Orchestration`
+
+**[ ↗ Live Demo ](https://leo-ai-tutor.streamlit.app)** &nbsp;·&nbsp; **[ ↗ Source Code ](https://github.com/MehdiHossenFahim/leo-ai-tutor)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⟨ 03 ⟩ Medical Multi-Tool AI Agent
 `ACTIVE` · `LLM ORCHESTRATION`
 
-- Auto-routes each question to the right `HeartDiseaseDBTool`, `CancerDBTool`, or `DiabetesDBTool` — LangChain SQL agents, each over its own database
-- Falls back to live Tavily web search when a question needs general or current knowledge
-- Ships **two interchangeable orchestration layers** — OpenAI Agents SDK and LangChain `AgentExecutor` — sharing one identical tool set
-- Includes a ready-to-run Colab notebook for instant reproduction
+- Auto-routes clinical queries across **3 structured medical databases** (`HeartDiseaseDB`, `CancerDB`, `DiabetesDB`) using validated Text-to-SQL generation
+- Falls back to real-time Tavily web search for out-of-schema or general medical questions
+- Ships **two interchangeable orchestration layers** — OpenAI Agents SDK and LangChain — sharing one unified toolset
 
 `Python` `OpenAI Agents SDK` `LangChain` `SQL Agents` `Tavily` `Groq`
 
@@ -116,13 +148,12 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 </td>
 <td width="50%" valign="top">
 
-### ⟨ 02 ⟩ Bangla Taka Note Detector
+### ⟨ 04 ⟩ Bangla Taka Note Detector
 `DEPLOYED` · `COMPUTER VISION`
 
-- Custom-trained YOLOv11 detector on an augmented Kaggle banknote dataset
-- Served via a FastAPI service with `/predict` and `/health` endpoints
-- Fully containerized and deployed live on Render
-- End-to-end reproducible: retrain from the Colab notebook, redeploy the same container
+- Custom-trained YOLOv11 object detection model to classify Bangladeshi Taka banknote denominations
+- Packaged as a Dockerized FastAPI microservice exposing `/predict` and `/health` RESTful endpoints
+- Automated container deployment live on Render with end-to-end training reproducibility
 
 `Python` `YOLOv11` `FastAPI` `Docker` `Render`
 
@@ -134,19 +165,18 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 
 <br/>
 
-### `>` AI AGENTS
+### `>` MORE AI AGENTS & TOOLS
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **Bangladesh Multi-Tool AI Agent**
-- Routes between **3 SQLite databases spanning 80k+ rows** (institutions, hospitals, restaurants)
-- Falls back to web search when the databases don't have the answer
-- Generates and validates its own SQL per query
-- Pluggable LLM backends — Groq / Gemini / Ollama
+- Automated Text-to-SQL agent querying **3 institutional SQLite databases spanning 80K+ rows** with query validation and error recovery
+- Integrated real-time web-search fallback when database records are unavailable
+- Modular LLM provider routing across cloud (**Groq**, **Gemini**) and local (**Ollama**) inference backends
 
-`LangChain` `SQLite` `Text-to-SQL`
+`Python` `LangChain` `SQLite` `Text-to-SQL` `Groq` `Gemini` `Ollama`
 
 [ ↗ Source ](https://github.com/MehdiHossenFahim/Bangladesh-Multi-Tool-AI-Agent)
 
@@ -154,14 +184,12 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <td width="50%" valign="top">
 
 **Job Application Tracker + AI Analyzer**
-- Django pipeline: Wishlist → Applied → Interview → Offer
-- Anthropic-API analyzer turns a pasted job post into a skills breakdown
-- Auto-generates interview prep notes per application
-- Built to solve the exact job hunt I'm on right now
+- Full-stack Django pipeline tracking applications across *Wishlist → Applied → Interview → Offer*
+- AI job-description analyzer extracts key technical skill requirements and generates tailored interview prep notes per role
 
-`Django` `Anthropic API` `Bootstrap 5`
+`Django` `Python` `Bootstrap 5` `LLM Integration`
 
-[ ↗ Source ](https://github.com/MehdiHossenFahim/job-tracker-ai-analyzer)
+[ ↗ Source ](https://github.com/MehdiHossenFahim/job-tracker)
 
 </td>
 </tr>
@@ -174,11 +202,9 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <td width="50%" valign="top">
 
 **GitSearch — GitHub Profile Analyzer**
-- Converts any GitHub username into a weighted developer score (0–100)
-- Scores based on language distribution and top-repo detection
-- Powered live by the GitHub REST API
+- Converts any GitHub username into a weighted developer score (0–100) based on language distribution and top-repository metrics via the GitHub REST API
 
-`Node.js` `Express` `EJS` `GitHub API`
+`Node.js` `Express` `GitHub API`
 
 [ ↗ Live ](https://github-profile-analyzer-ashen.vercel.app/) &nbsp;·&nbsp; [ ↗ Source ](https://github.com/MehdiHossenFahim/github-profile-analyzer)
 
@@ -186,9 +212,7 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <td width="50%" valign="top">
 
 **BookNotes — Personal Reading Library**
-- Search, rate (1–10), and sort books
-- Live data pulled from the Open Library API
-- Duplicate-safe PostgreSQL storage
+- Search, rate (1–10), and organize reading lists with live metadata pulled from the Open Library API and duplicate-safe PostgreSQL persistence
 
 `Node.js` `Express` `PostgreSQL`
 
@@ -199,26 +223,22 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <tr>
 <td width="50%" valign="top">
 
-**Bank Account Transaction Management System**
-- Deposits/withdrawals with strict per-user data isolation
-- Searchable, paginated transaction history
-- CSV export + dark mode
+**bookShop — Single-Vendor E-commerce**
+- Session-based shopping cart, full checkout flow, order history tracking, and complete Django admin inventory management
 
-`Django` `SQLite` `Bootstrap 5`
+`Django` `SQLite` `Bootstrap 5` `JavaScript`
 
-[ ↗ Source ](https://github.com/MehdiHossenFahim/BankAccount-Transaction-Management-System)
+[ ↗ Live ](https://mehdihossenfahim.pythonanywhere.com/) &nbsp;·&nbsp; [ ↗ Source ](https://github.com/MehdiHossenFahim/single-vendor-ecommerce)
 
 </td>
 <td width="50%" valign="top">
 
-**bookShop — Single-Vendor E-commerce**
-- Session-based cart and full checkout flow
-- Order history + complete admin management
-- Models, views, and forms exercised end to end
+**Course Player — Local-First Video LMS**
+- Browser-based local course player parsing folder structures directly in-browser with auto-resume, progress tracking, and `.vtt` subtitle support
 
-`Django` `Bootstrap 5` `JavaScript`
+`JavaScript` `HTML5` `Local-First`
 
-[ ↗ Live ](https://mehdihossenfahim.pythonanywhere.com/) &nbsp;·&nbsp; [ ↗ Source ](https://github.com/MehdiHossenFahim/single-vendor-ecommerce)
+[ ↗ Source ](https://github.com/MehdiHossenFahim/course-player)
 
 </td>
 </tr>
@@ -230,29 +250,26 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <tr>
 <td width="33%" valign="top">
 
-**6-DoF Robotic Arm**
-- Precision 6-degree-of-freedom control
-- Real-time motion planning
+**IoT Health Monitoring System**
+- Cloud-connected patient vitals monitoring with real-time ESP32 sensor pipelines
 
-🥈 **2nd Place** — NDUB Robotics
+🥇 **1st Place** — NDUB Robotics Competition (2025)
 
 </td>
 <td width="33%" valign="top">
 
-**IoT Health Monitoring System**
-- Cloud-connected patient vitals monitoring
-- Real-time ESP32 data pipelines
+**6-DoF Robotic Arm**
+- Precision 6-degree-of-freedom kinematic control and real-time motion planning
 
-🥇 **1st Place**
+🥈 **2nd Place** — NDUB Robotics Competition (2023)
 
 </td>
 <td width="33%" valign="top">
 
 **ESP32-CAM Surveillance Rover**
-- Real-time video surveillance
-- Live WiFi streaming
+- Remote-controlled rover with live WiFi video streaming and telemetry
 
-🥉 **3rd Place**
+🥉 **3rd Place** — Inter-University Robotics Competition (2024)
 
 </td>
 </tr>
@@ -289,22 +306,22 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 
 **Competitions**
 
-| | |
+| Award | Project & Event |
 |---|---|
-| 🥇 | IoT Health Monitoring System |
-| 🥈 | 6-DoF Robotic Arm — NDUB |
-| 🥉 | ESP32-CAM Surveillance Rover |
+| 🥇 **1st Place** | IoT Health Monitoring System — *NDUB Robotics Competition (2025)* |
+| 🥈 **2nd Place** | 6-DoF Robotic Arm — *NDUB Robotics Competition (2023)* |
+| 🥉 **3rd Place** | ESP32-CAM Surveillance Rover — *Inter-University Robotics Competition (2024)* |
 
 </td>
 <td width="50%" valign="top">
 
-**Roles**
+**Experience & Education**
 
-| | |
+| Role | Details |
 |---|---|
-| Software Developer Intern | FastAPI · PostgreSQL · Docker |
-| Robotics Instructor | Arduino · C++ · IoT |
-| Graphic Designer | UI/UX · Visual Design |
+| **Software Developer Intern** | *White Services Technology Ltd.* — ASP.NET Core, FastAPI, PostgreSQL |
+| **Robotics Instructor** | *Motijheel Model High School* — Robotics, Embedded C, IoT (50+ students) |
+| **B.Sc. in CSE** | *Notre Dame University Bangladesh* — CGPA: 3.58 (2021–2026) |
 
 </td></tr>
 </table>
@@ -314,11 +331,11 @@ AI agents that choose their own tools. Computer-vision models trained from raw p
 <a id="contact"></a>
 ## `//` LET'S TALK
 
-If you're hiring for backend engineering, AI agent / LLM systems, or IoT development — this is the profile you were looking for. I ship, I document, and I explain my systems clearly, which is most of what makes an engineer easy to work with.
+If you're hiring for **AI Engineer**, **LLM / RAG Systems**, or **Python Backend** roles — let's connect. I ship, I document, and I explain my systems clearly.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mehedi-hossen-fahim-322b49171">
+<a href="https://www.linkedin.com/in/mehedihossenfahim/">
   <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0A0A0F" height="38"/>
 </a>
 
